@@ -34,7 +34,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pokem0n2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pokem0n2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=-Reviews" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokem0n2&theme=github&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokem0n2&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
