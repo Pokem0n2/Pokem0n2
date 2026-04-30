@@ -42,7 +42,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokem0n2&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokem0n2&bg_color=ffffff&color=000000&line=39FF14&point=E34234&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
