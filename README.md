@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=95d8a6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pokem0n2;Go+%26+Full-stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Pokem0n2;Go+%26+Full-stack+Developer;Open+Source+Enthusiast;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pokem0n2&label=Profile%20views&color=222222&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Pokem0n2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
