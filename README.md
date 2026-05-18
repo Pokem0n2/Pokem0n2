@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pokem0n2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Pokem0n2&label=Profile%20views&color=222222&style=flat" alt="profile views" />
 </p>
 
 ---
