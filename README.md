@@ -21,7 +21,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/E34234/Pokem0n2" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Pokem0n2/Pokem0n2/main/activity-graph.svg" alt="Activity Graph" />
 </p>
 
 ---
