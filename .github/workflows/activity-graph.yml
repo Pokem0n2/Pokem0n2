@@ -1,0 +1,40 @@
+name: Activity Graph
+
+on:
+  schedule:
+    - cron: "33 16 * * *" # 00:33 Beijing time, daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate activity-graph.svg
+        run: python scripts/gen_activity_graph.py activity-graph.svg
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_USER: Pokem0n2
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "no change"
+            exit 0
+          fi
+          git commit -m "chore: refresh activity graph [skip ci]"
+          git push
