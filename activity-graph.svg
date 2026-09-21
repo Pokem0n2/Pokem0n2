@@ -3,9 +3,9 @@
 <text x="600.0" y="38" text-anchor="middle" font-size="20" font-weight="600" fill="#000000">Pokem0n2&#39;s Contribution Graph</text>
 <style>
 @keyframes pop { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: none; } }
-@keyframes dash { from { stroke-dashoffset: 1493.6px; } to { stroke-dashoffset: 0; } }
+@keyframes dash { from { stroke-dashoffset: 1608.2px; } to { stroke-dashoffset: 0; } }
 .pt { animation: pop 0.35s ease-out both; }
-.ln { stroke-dasharray: 1493.6px; animation: dash 4.5s linear 0.4s both; }
+.ln { stroke-dasharray: 1608.2px; animation: dash 4.5s linear 0.4s both; }
 </style>
 <line x1="80" y1="330.0" x2="1160" y2="330.0" stroke="#e0e0e0" stroke-width="1"/>
 <text x="70" y="334.0" text-anchor="end" font-size="12" fill="#000000">0</text>
@@ -25,67 +25,67 @@
 <text x="70" y="106.5" text-anchor="end" font-size="12" fill="#000000">14</text>
 <line x1="80" y1="70.0" x2="1160" y2="70.0" stroke="#e0e0e0" stroke-width="1"/>
 <text x="70" y="74.0" text-anchor="end" font-size="12" fill="#000000">16</text>
-<text x="80.0" y="352" text-anchor="middle" font-size="12" fill="#000000">21</text>
-<text x="116.0" y="352" text-anchor="middle" font-size="12" fill="#000000">22</text>
-<text x="152.0" y="352" text-anchor="middle" font-size="12" fill="#000000">23</text>
-<text x="188.0" y="352" text-anchor="middle" font-size="12" fill="#000000">24</text>
-<text x="224.0" y="352" text-anchor="middle" font-size="12" fill="#000000">25</text>
-<text x="260.0" y="352" text-anchor="middle" font-size="12" fill="#000000">26</text>
-<text x="296.0" y="352" text-anchor="middle" font-size="12" fill="#000000">27</text>
-<text x="332.0" y="352" text-anchor="middle" font-size="12" fill="#000000">28</text>
-<text x="368.0" y="352" text-anchor="middle" font-size="12" fill="#000000">29</text>
-<text x="404.0" y="352" text-anchor="middle" font-size="12" fill="#000000">30</text>
-<text x="440.0" y="352" text-anchor="middle" font-size="12" fill="#000000">31</text>
-<text x="476.0" y="352" text-anchor="middle" font-size="12" fill="#000000">1</text>
-<text x="512.0" y="352" text-anchor="middle" font-size="12" fill="#000000">2</text>
-<text x="548.0" y="352" text-anchor="middle" font-size="12" fill="#000000">3</text>
-<text x="584.0" y="352" text-anchor="middle" font-size="12" fill="#000000">4</text>
-<text x="620.0" y="352" text-anchor="middle" font-size="12" fill="#000000">5</text>
-<text x="656.0" y="352" text-anchor="middle" font-size="12" fill="#000000">6</text>
-<text x="692.0" y="352" text-anchor="middle" font-size="12" fill="#000000">7</text>
-<text x="728.0" y="352" text-anchor="middle" font-size="12" fill="#000000">8</text>
-<text x="764.0" y="352" text-anchor="middle" font-size="12" fill="#000000">9</text>
-<text x="800.0" y="352" text-anchor="middle" font-size="12" fill="#000000">10</text>
-<text x="836.0" y="352" text-anchor="middle" font-size="12" fill="#000000">11</text>
-<text x="872.0" y="352" text-anchor="middle" font-size="12" fill="#000000">12</text>
-<text x="908.0" y="352" text-anchor="middle" font-size="12" fill="#000000">13</text>
-<text x="944.0" y="352" text-anchor="middle" font-size="12" fill="#000000">14</text>
-<text x="980.0" y="352" text-anchor="middle" font-size="12" fill="#000000">15</text>
-<text x="1016.0" y="352" text-anchor="middle" font-size="12" fill="#000000">16</text>
-<text x="1052.0" y="352" text-anchor="middle" font-size="12" fill="#000000">17</text>
-<text x="1088.0" y="352" text-anchor="middle" font-size="12" fill="#000000">18</text>
-<text x="1124.0" y="352" text-anchor="middle" font-size="12" fill="#000000">19</text>
-<text x="1160.0" y="352" text-anchor="middle" font-size="12" fill="#000000">20</text>
-<polyline class="ln" points="80.0,330.0 116.0,330.0 152.0,330.0 188.0,330.0 224.0,330.0 260.0,330.0 296.0,297.5 332.0,330.0 368.0,330.0 404.0,330.0 440.0,330.0 476.0,330.0 512.0,313.8 548.0,313.8 584.0,330.0 620.0,330.0 656.0,330.0 692.0,330.0 728.0,330.0 764.0,330.0 800.0,330.0 836.0,330.0 872.0,330.0 908.0,330.0 944.0,330.0 980.0,330.0 1016.0,297.5 1052.0,86.2 1088.0,297.5 1124.0,330.0 1160.0,330.0" stroke="#E34234" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="80.0" y="352" text-anchor="middle" font-size="12" fill="#000000">22</text>
+<text x="116.0" y="352" text-anchor="middle" font-size="12" fill="#000000">23</text>
+<text x="152.0" y="352" text-anchor="middle" font-size="12" fill="#000000">24</text>
+<text x="188.0" y="352" text-anchor="middle" font-size="12" fill="#000000">25</text>
+<text x="224.0" y="352" text-anchor="middle" font-size="12" fill="#000000">26</text>
+<text x="260.0" y="352" text-anchor="middle" font-size="12" fill="#000000">27</text>
+<text x="296.0" y="352" text-anchor="middle" font-size="12" fill="#000000">28</text>
+<text x="332.0" y="352" text-anchor="middle" font-size="12" fill="#000000">29</text>
+<text x="368.0" y="352" text-anchor="middle" font-size="12" fill="#000000">30</text>
+<text x="404.0" y="352" text-anchor="middle" font-size="12" fill="#000000">31</text>
+<text x="440.0" y="352" text-anchor="middle" font-size="12" fill="#000000">1</text>
+<text x="476.0" y="352" text-anchor="middle" font-size="12" fill="#000000">2</text>
+<text x="512.0" y="352" text-anchor="middle" font-size="12" fill="#000000">3</text>
+<text x="548.0" y="352" text-anchor="middle" font-size="12" fill="#000000">4</text>
+<text x="584.0" y="352" text-anchor="middle" font-size="12" fill="#000000">5</text>
+<text x="620.0" y="352" text-anchor="middle" font-size="12" fill="#000000">6</text>
+<text x="656.0" y="352" text-anchor="middle" font-size="12" fill="#000000">7</text>
+<text x="692.0" y="352" text-anchor="middle" font-size="12" fill="#000000">8</text>
+<text x="728.0" y="352" text-anchor="middle" font-size="12" fill="#000000">9</text>
+<text x="764.0" y="352" text-anchor="middle" font-size="12" fill="#000000">10</text>
+<text x="800.0" y="352" text-anchor="middle" font-size="12" fill="#000000">11</text>
+<text x="836.0" y="352" text-anchor="middle" font-size="12" fill="#000000">12</text>
+<text x="872.0" y="352" text-anchor="middle" font-size="12" fill="#000000">13</text>
+<text x="908.0" y="352" text-anchor="middle" font-size="12" fill="#000000">14</text>
+<text x="944.0" y="352" text-anchor="middle" font-size="12" fill="#000000">15</text>
+<text x="980.0" y="352" text-anchor="middle" font-size="12" fill="#000000">16</text>
+<text x="1016.0" y="352" text-anchor="middle" font-size="12" fill="#000000">17</text>
+<text x="1052.0" y="352" text-anchor="middle" font-size="12" fill="#000000">18</text>
+<text x="1088.0" y="352" text-anchor="middle" font-size="12" fill="#000000">19</text>
+<text x="1124.0" y="352" text-anchor="middle" font-size="12" fill="#000000">20</text>
+<text x="1160.0" y="352" text-anchor="middle" font-size="12" fill="#000000">21</text>
+<polyline class="ln" points="80.0,330.0 116.0,330.0 152.0,330.0 188.0,330.0 224.0,330.0 260.0,297.5 296.0,330.0 332.0,330.0 368.0,330.0 404.0,330.0 440.0,330.0 476.0,313.8 512.0,313.8 548.0,330.0 584.0,330.0 620.0,330.0 656.0,330.0 692.0,330.0 728.0,330.0 764.0,330.0 800.0,330.0 836.0,330.0 872.0,330.0 908.0,330.0 944.0,330.0 980.0,297.5 1016.0,86.2 1052.0,297.5 1088.0,330.0 1124.0,330.0 1160.0,183.8" stroke="#E34234" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
 <circle class="pt" style="animation-delay:0.400s" cx="80.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:0.508s" cx="116.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:0.617s" cx="152.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:0.725s" cx="188.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:0.834s" cx="224.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:0.942s" cx="260.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.088s" cx="296.0" cy="297.5" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.235s" cx="332.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.343s" cx="368.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.451s" cx="404.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.560s" cx="440.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.668s" cx="476.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.787s" cx="512.0" cy="313.8" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:1.896s" cx="548.0" cy="313.8" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.015s" cx="584.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.123s" cx="620.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.232s" cx="656.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.340s" cx="692.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.449s" cx="728.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.557s" cx="764.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.666s" cx="800.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.774s" cx="836.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.883s" cx="872.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:2.991s" cx="908.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:3.100s" cx="944.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:3.208s" cx="980.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:3.354s" cx="1016.0" cy="297.5" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:4.000s" cx="1052.0" cy="86.2" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:4.645s" cx="1088.0" cy="297.5" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:4.792s" cx="1124.0" cy="330.0" r="3" fill="#40C463"/>
-<circle class="pt" style="animation-delay:4.900s" cx="1160.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:0.501s" cx="116.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:0.601s" cx="152.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:0.702s" cx="188.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:0.803s" cx="224.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:0.939s" cx="260.0" cy="297.5" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.074s" cx="296.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.175s" cx="332.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.276s" cx="368.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.377s" cx="404.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.477s" cx="440.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.588s" cx="476.0" cy="313.8" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.689s" cx="512.0" cy="313.8" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.799s" cx="548.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:1.900s" cx="584.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.001s" cx="620.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.101s" cx="656.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.202s" cx="692.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.303s" cx="728.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.403s" cx="764.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.504s" cx="800.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.605s" cx="836.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.706s" cx="872.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.806s" cx="908.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:2.907s" cx="944.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:3.043s" cx="980.0" cy="297.5" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:3.642s" cx="1016.0" cy="86.2" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:4.242s" cx="1052.0" cy="297.5" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:4.378s" cx="1088.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:4.479s" cx="1124.0" cy="330.0" r="3" fill="#40C463"/>
+<circle class="pt" style="animation-delay:4.900s" cx="1160.0" cy="183.8" r="3" fill="#40C463"/>
 </svg>
